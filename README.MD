@@ -24,7 +24,4 @@ This project is a simple implementation of a Pong game using SFML (Simple and Fa
 - Each time the ball collides with a paddle, it will change its horizontal direction.
 - If the ball goes beyond the left or right boundary of the window, it will reset to the center and change its horizontal direction.
 
-# Note
-- This is a basic implementation of the Pong game and serves as a starting point for further enhancements and customizations. Feel free to modify the code and add more features to create your own version of the game!
-
-- Enjoy playing Pong! 🏓
+### Enjoy playing Pong! 🏓
