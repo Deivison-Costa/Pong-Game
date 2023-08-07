@@ -1,5 +1,5 @@
 # Pong Game
-This project is a simple implementation of a Pong game using SFML (Simple and Fast Multimedia Library). The game allows two players to control paddles and compete against each other to bounce a ball back and forth. The purpose of this readme is to provide an overview of the project and how to use it.
+- This project is a simple implementation of a Pong game using SFML (Simple and Fast Multimedia Library). The game allows two players to control paddles and compete against each other to bounce a ball back and forth. The purpose of this readme is to provide an overview of the project and how to use it.
 
 ![Figure 1](https://github.com/Deivison-Costa/Deivison-Costa/assets/112001225/a55f1333-b52a-4a17-99ba-a1de3c12830d)
 
